@@ -1,3 +1,1 @@
-<?php
-echo "My first PHP script!";
-?>
+<?php include_once(“index.html”); ?>
